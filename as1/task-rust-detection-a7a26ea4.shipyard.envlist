@@ -1,0 +1,8 @@
+INPUT_MODE=env
+COMPUTE_CONTEXT=GPU
+CONFIG_FILE_RUNNER=service/config/job_processor.config.dev.yml
+document_id_list=["8ceeefef-31ce-4eda-9aae-420c6443f97d","cd4f1f2f-0d05-4e1d-ae12-11fe9f7e204b","e8ce8f40-602a-4f17-a589-b517a8c4504e","49df4ceb-fbfc-4af1-a98a-8fdd1e0d1b80","6a8b39a1-71fd-42c8-b4af-ad97af3461a4","37714a94-fec3-40d4-aa52-195e92d3942e","cc8b25a4-4ea0-41bb-8080-2830fa0b236a","33cfe93b-406b-4f6b-9428-1e65e2455f4b","56542644-4a4a-4b20-b84c-8ded031b36df","dda16b40-866c-4a74-b0a7-af9881900f95","494bcb02-eb93-43c9-b766-05a39c2dea98","ee685c1b-b90d-4c5a-9afa-72d2e70ab619","82fcda12-8049-40df-9e22-ecfe5d58419a","4409ef8e-7edc-46fd-98c7-e6b70b9c2a6b","3068fce2-86f4-4c14-bfba-65e14111df89","0c8df49e-2e55-424d-af8b-bdb1a28ddb97","d66c417f-f7e0-404e-bb77-80c5ca5b17f6","5c11fef0-0d29-4e3f-9411-301baa6fc226","e0dba756-0375-4498-a0ad-e5e345bbafba","2329da08-690b-4a20-a1ca-e95aeea28b77","7d0295b6-da72-4a8f-b6db-cd3f137c57e3","8035b99c-9a07-4ad3-aad0-ae5ca1ce5ca7","b4b20d08-e644-435a-b564-e61cd29cf2ba","cae52c0b-b958-48ea-8e9d-277f1b9cca37","f167d59c-6031-4853-b4df-2e5dbe39cdfd","4562ac9a-1f23-4b9c-9c10-7f8c9832815e","c660d8ad-4041-4fba-ba6a-018ae6ab0d3e","1d7ac51b-92a1-420c-b0ac-2c93184c3a63","5d501296-4b29-4b0f-9e56-01291ce32ad3","ae8743c6-1346-49c0-a4da-f6fb224b58b7"]
+tenant_key=esmart-dev
+CUDA_CACHE_DISABLE=0
+CUDA_CACHE_MAXSIZE=1073741824
+CUDA_CACHE_PATH=/mnt/batch/tasks/.nv/ComputeCache
